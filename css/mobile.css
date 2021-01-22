@@ -1,0 +1,72 @@
+/* Navigation bar and  Logo */
+
+#navbar .logo {
+    float: none;
+    text-align: center;
+}
+
+#navbar ul,
+#navbar ul li {
+    float: none;
+}
+
+#navbar ul li {
+    padding: 5px;
+    border-bottom: #444 dotted 1px;
+}
+
+
+/* Home Info */
+
+#home-info .info-img {
+    display: none;
+}
+
+#home-info .info-content {
+    float: none;
+    width: 100%;
+}
+
+
+/* Showcase Section */
+
+#showcase {
+    height: 100%;
+}
+
+#showcase .showcse-content {
+    padding-top: 65px;
+    padding-bottom: 30px;
+}
+
+
+/* Box Style */
+
+.box {
+    float: none;
+    width: 100%;
+}
+
+
+/* About Section  */
+
+.h-heading {
+    text-align: center;
+}
+
+#about-info .about-right,
+#about-info .about-left {
+    float: none;
+    width: 100%;
+}
+
+#about-info .about-right {
+    margin-top: 30px;
+}
+
+
+/* contact Section */
+
+#contact-info .box {
+    border-bottom: #444 dotted 1px;
+}
