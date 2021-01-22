@@ -8,7 +8,7 @@
 
 - HTML
 - CSS
-- JavaScript
+
 
 <h1> Project Preview </h1> 
 <br>
